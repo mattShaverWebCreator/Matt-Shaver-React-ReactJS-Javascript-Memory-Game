@@ -1,0 +1,31 @@
+body {
+  width: 100%;
+}
+
+.twoPlayers-Container .playerInfoBlock .twoPlayersNext .board {
+  margin: 20px;
+  padding: 10px;
+}
+
+.twoPlayers-Container .playerInfoBlock .twoPlayersNext .board .onePlayerName {
+  color: red;
+  font-size: 20px;
+}
+
+.twoPlayers-Container .playerInfoBlock .twoPlayersNext .board .playerOneScore {
+  color: red;
+  font-size: 18px;
+  margin: 20px 0 40px 0;
+}
+
+.twoPlayers-Container .playerInfoBlock .twoPlayersNext .board .twoPlayerName {
+  color: blue;
+  font-size: 20px;
+  margin: 30px 0 15px 0;
+}
+
+.twoPlayers-Container .playerInfoBlock .twoPlayersNext .board .playerTwoScore {
+  color: blue;
+  font-size: 18px;
+  margin: 20px 0 20px 0;
+}
